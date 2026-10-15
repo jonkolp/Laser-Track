@@ -1,3 +1,5 @@
+
+
 # 🎯 Real-Time Laser Pointer Tracker
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -7,6 +9,7 @@
 A robust, real-time computer vision system built with **Python**, **OpenCV**, and **NumPy** to detect, calibrate, and track laser pointer dots across live webcams and recorded video streams.
 
 ---
+https://github.com/user-attachments/assets/ea4d0cf6-7c35-4696-9b8f-070173502d71
 
 ## 📋 Table of Contents
 
