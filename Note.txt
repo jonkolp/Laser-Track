@@ -1,0 +1,15 @@
+Laser Tracking Project Notes
+============================
+
+1. Quick Start:
+   - Run `python laser_tracker.py` to start tracking with a connected webcam.
+   - Run `python laser_tracker.py --source "Laser assignment.mp4"` to track the sample video.
+   - Run `python color_picker.py` to launch the interactive color calibration tool.
+
+2. Calibration:
+   - In `color_picker.py` (or `color picker.py`), left-click directly on the laser point.
+   - The tool prints the exact HSV values and recommends lower/upper bound arrays.
+   - Press SPACEBAR to pause playback on fast-moving frames for easier clicking.
+
+3. Detailed Documentation:
+   - Refer to README.md for complete instructions, architecture, CLI options, and the future development roadmap.
