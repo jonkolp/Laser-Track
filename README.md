@@ -88,8 +88,8 @@ Laser-assignment/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/laser-tracker.git
-cd laser-tracker
+git clone https://github.com/jonkolp/Laser-Track.git
+cd Laser-Track
 ```
 
 ### 2. Set up a virtual environment (recommended)
